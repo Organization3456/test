@@ -10,7 +10,7 @@ metadata:
 spec:
   containers:
   - name: web-test
-    image: nginx
+    image: nginx:alpine
     ports:
     - containerPort: 80
     imagePullPolicy: IfNotPresent
