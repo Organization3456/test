@@ -1,0 +1,32 @@
+# this is just for testing argocd
+apiVersion: v1
+kind: Pod
+metadata:
+  name: web-test
+  namespace: test
+  labels:
+    namespace: test
+    tier: frontend
+spec:
+  containers:
+  = name: web-test
+    image: nginx:alpine
+    ports:
+    - containerPort: 80
+    imagePullPolicy: IfNotPresent
+---
+# service for the pod
+apiVersion: v1
+kind: Service
+metadata:
+  name: web-svc
+  namespace: test
+spec:
+  type: ClusterIP
+  ports:
+  - name: http
+    port: 80
+    targetPort: 80
+  selector:
+    namespace: test
+    tier: frontend
