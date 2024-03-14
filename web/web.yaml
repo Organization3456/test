@@ -9,7 +9,7 @@ metadata:
     tier: frontend
 spec:
   containers:
-  = name: web-test
+  - name: web-test
     image: nginx:alpine
     ports:
     - containerPort: 80
