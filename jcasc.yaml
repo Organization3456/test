@@ -10,7 +10,6 @@ credentials:
           scope: GLOBAL
           username: "root"
 jenkins:
-  systemMessage: "Jenkins configured automatically by jenkins configuration as conde plugin\n\n"
   agentProtocols:
   - "JNLP4-connect"
   - "Ping"
