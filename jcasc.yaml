@@ -1,0 +1,282 @@
+credentials:
+  system:
+    domainCredentials:
+    - credentials:
+      - basicSSHUserPrivateKey:
+          id: "sarah"
+          privateKeySource:
+            directEntry:
+              privateKey: "{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}"
+          scope: GLOBAL
+          username: "root"
+jenkins:
+  systemMessage: "Jenkins configured automatically by Jenkins Configuration as Code publin\n\n"
+  agentProtocols:
+  - "JNLP4-connect"
+  - "Ping"
+  authorizationStrategy:
+    projectMatrix:
+      entries:
+      - user:
+          name: "admin"
+          permissions:
+          - "Agent/Build"
+          - "Agent/Configure"
+          - "Agent/Connect"
+          - "Agent/Create"
+          - "Agent/Delete"
+          - "Agent/Disconnect"
+          - "Credentials/Create"
+          - "Credentials/Delete"
+          - "Credentials/ManageDomains"
+          - "Credentials/Update"
+          - "Credentials/View"
+          - "Job/Build"
+          - "Job/Cancel"
+          - "Job/Configure"
+          - "Job/Create"
+          - "Job/Delete"
+          - "Job/Discover"
+          - "Job/Read"
+          - "Job/Workspace"
+          - "Overall/Administer"
+          - "Overall/Read"
+          - "Run/Delete"
+          - "Run/Replay"
+          - "Run/Update"
+          - "SCM/Tag"
+          - "View/Configure"
+          - "View/Create"
+          - "View/Delete"
+          - "View/Read"
+      - user:
+          name: "readonly"
+          permissions:
+          - "Overall/Read"
+      - user:
+          name: "user1"
+          permissions:
+          - "Job/Build"
+          - "Job/Cancel"
+          - "Job/Configure"
+          - "Job/Create"
+          - "Job/Delete"
+          - "Job/Discover"
+          - "Job/Read"
+          - "Job/Workspace"
+          - "Overall/Read"
+  crumbIssuer:
+    standard:
+      excludeClientIPFromCrumb: false
+  disableRememberMe: false
+  disabledAdministrativeMonitors:
+  - "jenkins.diagnostics.ControllerExecutorsAgents"
+  labelAtoms:
+  - name: "agent"
+  - name: "built-in"
+  - name: "controlplane"
+  - name: "node1"
+  - name: "second"
+  labelString: "controlplane"
+  markupFormatter: "plainText"
+  mode: NORMAL
+  myViewsTabBar: "standard"
+  nodeMonitors:
+  - "architecture"
+  - "clock"
+  - diskSpace:
+      freeSpaceThreshold: "1GiB"
+      freeSpaceWarningThreshold: "2GiB"
+  - "swapSpace"
+  - tmpSpace:
+      freeSpaceThreshold: "1GiB"
+      freeSpaceWarningThreshold: "2GiB"
+  - "responseTime"
+  nodes:
+  - permanent:
+      labelString: "agent"
+      launcher:
+        ssh:
+          credentialsId: "sarah"
+          host: "128.199.23.122"
+          port: 22
+          sshHostKeyVerificationStrategy:
+            manuallyTrustedKeyVerificationStrategy:
+              requireInitialManualTrust: true
+      name: "node1"
+      numExecutors: 3
+      remoteFS: "/root/jenkins"
+      retentionStrategy: "always"
+  - permanent:
+      labelString: "controlplane agent"
+      launcher:
+        ssh:
+          credentialsId: "sarah"
+          host: "165.232.190.102"
+          port: 22
+          sshHostKeyVerificationStrategy:
+            manuallyTrustedKeyVerificationStrategy:
+              requireInitialManualTrust: false
+      mode: EXCLUSIVE
+      name: "second"
+      numExecutors: 2
+      remoteFS: "/root/worker"
+      retentionStrategy: "always"
+  numExecutors: 2
+  primaryView:
+    all:
+      name: "all"
+  projectNamingStrategy: "standard"
+  quietPeriod: 5
+  remotingSecurity:
+    enabled: true
+  scmCheckoutRetryCount: 0
+  securityRealm:
+    local:
+      allowsSignup: false
+      enableCaptcha: false
+      users:
+      - id: "admin"
+        name: "Admin"
+        properties:
+        - "consoleUrlProvider"
+        - "myView"
+        - preferredProvider:
+            providerId: "default"
+        - "theme"
+        - "timezone"
+        - "experimentalFlags"
+        - mailer:
+            emailAddress: "mechharikumar342@gmail.com"
+        - "apiToken"
+      - id: "readonly"
+        name: "readonly"
+        properties:
+        - "apiToken"
+        - "consoleUrlProvider"
+        - "myView"
+        - preferredProvider:
+            providerId: "default"
+        - "theme"
+        - "timezone"
+        - "experimentalFlags"
+        - mailer:
+            emailAddress: "readonly@@gmail.com"
+      - id: "user1"
+        name: "user1"
+        properties:
+        - "apiToken"
+        - "consoleUrlProvider"
+        - "myView"
+        - preferredProvider:
+            providerId: "default"
+        - "theme"
+        - "timezone"
+        - "experimentalFlags"
+        - mailer:
+            emailAddress: "user1@gmail.com"
+  slaveAgentPort: -1
+  updateCenter:
+    sites:
+    - id: "default"
+      url: "https://updates.jenkins.io/update-center.json"
+  views:
+  - all:
+      name: "all"
+  viewsTabBar: "standard"
+globalCredentialsConfiguration:
+  configuration:
+    providerFilter: "none"
+    typeFilter: "none"
+appearance:
+  prism:
+    theme: PRISM
+  themeManager:
+    disableUserThemes: false
+    theme: "darkSystem"
+security:
+  apiToken:
+    creationOfLegacyTokenEnabled: false
+    tokenGenerationOnCreationEnabled: false
+    usageStatisticsEnabled: true
+  gitHooks:
+    allowedOnAgents: false
+    allowedOnController: false
+  gitHostKeyVerificationConfiguration:
+    sshHostKeyVerificationStrategy: "knownHostsFileVerificationStrategy"
+unclassified:
+  buildDiscarders:
+    configuredBuildDiscarders:
+    - "jobBuildDiscarder"
+  buildStepOperation:
+    enabled: false
+  email-ext:
+    adminRequiredForTemplateTesting: false
+    allowUnregisteredEnabled: false
+    charset: "UTF-8"
+    debugMode: false
+    defaultBody: |-
+      $PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS:
+
+      Check console output at $BUILD_URL to view the results.
+    defaultSubject: "$PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS!"
+    defaultTriggerIds:
+    - "hudson.plugins.emailext.plugins.trigger.FailureTrigger"
+    maxAttachmentSize: -1
+    maxAttachmentSizeMb: -1
+    precedenceBulk: false
+    watchingEnabled: false
+  enrichedSummaryConfig:
+    enrichedSummaryEnabled: false
+    httpClientDelayBetweenRetriesInSeconds: 1
+    httpClientMaxRetries: 3
+    httpClientTimeoutInSeconds: 1
+  fingerprints:
+    fingerprintCleanupDisabled: false
+    storage: "file"
+  gitHubConfiguration:
+    apiRateLimitChecker: ThrottleForNormalize
+  gitHubPluginConfig:
+    hookUrl: "http://128.199.23.122/github-webhook/"
+  globalTimeOutConfiguration:
+    operations:
+    - "abortOperation"
+    overwriteable: false
+  injectionConfig:
+    allowUntrusted: false
+    checkForBuildAgentErrors: false
+    enabled: false
+    enforceUrl: false
+    injectCcudExtension: false
+    injectMavenExtension: false
+  junitTestResultStorage:
+    storage: "file"
+  location:
+    adminAddress: "address not configured yet <nobody@nowhere>"
+    url: "http://128.199.23.122/"
+  mailer:
+    charset: "UTF-8"
+    useSsl: false
+    useTls: false
+  pollSCM:
+    pollingThreadCount: 10
+  scmGit:
+    addGitTagAction: false
+    allowSecondFetch: false
+    createAccountBasedOnEmail: false
+    disableGitToolChooser: false
+    hideCredentials: false
+    showEntireCommitSummaryInChanges: false
+    useExistingAccountWithSameEmail: false
+  timestamper:
+    allPipelines: false
+    elapsedTimeFormat: "'<b>'HH:mm:ss.S'</b> '"
+    systemTimeFormat: "'<b>'HH:mm:ss'</b> '"
+tool:
+  git:
+    installations:
+    - home: "git"
+      name: "Default"
+  mavenGlobalConfig:
+    globalSettingsProvider: "standard"
+    settingsProvider: "standard"
